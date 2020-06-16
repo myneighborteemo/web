@@ -1,0 +1,4 @@
+#Mon Jun 15 20:52:02 EDT 2020
+base.0=D\:\\WORK\\app\\food_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
